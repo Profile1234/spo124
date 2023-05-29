@@ -5,6 +5,7 @@ namespace Model
     /// <summary>
     /// Класс для реализации конденсатора
     /// </summary>
+    /// 
     [Serializable]
     public class Capacitor : Elements
     {
