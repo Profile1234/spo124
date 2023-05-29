@@ -5,6 +5,7 @@ namespace Model
     /// <summary>
     /// Абстрактный класс для реализации элементов электричесикх схем
     /// </summary>
+    /// 
     [Serializable]
     abstract public class Elements
     {
