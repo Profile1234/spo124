@@ -5,6 +5,7 @@ namespace Model
     /// <summary>
     /// Класс для реализации катушки
     /// </summary>
+    /// 
     [Serializable]
     public class Inductance : Elements
     {
